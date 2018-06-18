@@ -2,7 +2,7 @@ library(dplyr)
 library(rmarkdown)
 library(ggplot2)
 library(nycflights13)
-dim(flights # n of row and col
+dim(flights） # n of row and col
 data = flights  # ??? why not working 
 tail(data,n=5) # show last 5 rows
 head(data,n=7) # show first 5 rows
