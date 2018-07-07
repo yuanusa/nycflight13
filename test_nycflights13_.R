@@ -27,4 +27,4 @@ mutate(data,    #mutate allows you to refer to columns that you/vd just created
 set.seed(1111) # name this set of sample 1111, next time could choose 2222 or 1112
 sample_n(data,10)  #choose 10 of all to be sample 1111
 sample_frac(data,0.01) #choose 1% of all data to be sample 1111
-       
+      ###test
